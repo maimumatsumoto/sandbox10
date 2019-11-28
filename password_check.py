@@ -1,7 +1,5 @@
 password = input("Enter password")
 
-
-
 while len(password)<7:
     print("too short")
     password = input("enter pass again")
